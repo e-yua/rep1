@@ -1,0 +1,20 @@
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.csprojAssemblyReference.cache
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.Form1.resources
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.Properties.Resources.resources
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.csproj.GenerateResource.cache
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\лр6\лр6\bin\Debug\лр6.exe.config
+E:\3 курс\РПМ\лр6\лр6\bin\Debug\лр6.exe
+E:\3 курс\РПМ\лр6\лр6\bin\Debug\лр6.pdb
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.exe
+E:\3 курс\РПМ\лр6\лр6\obj\Debug\лр6.pdb
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Debug\лр6.exe.config
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Debug\лр6.exe
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Debug\лр6.pdb
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.Form1.resources
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.Properties.Resources.resources
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.csproj.GenerateResource.cache
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.exe
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.pdb
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Debug\лр6.csproj.AssemblyReference.cache

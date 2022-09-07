@@ -1,0 +1,10 @@
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Release\лр6.exe.config
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Release\лр6.exe
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\bin\Release\лр6.pdb
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.csproj.AssemblyReference.cache
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.Form1.resources
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.Properties.Resources.resources
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.csproj.GenerateResource.cache
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.exe
+E:\3 курс\РПМ\ЛР №6\лр6\лр6\obj\Release\лр6.pdb
