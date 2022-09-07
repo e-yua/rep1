@@ -1,0 +1,14 @@
+E:\3 курс\РПМ\лр4\лр4\bin\Debug\лр4.exe.config
+E:\3 курс\РПМ\лр4\лр4\bin\Debug\лр4.exe
+E:\3 курс\РПМ\лр4\лр4\bin\Debug\лр4.pdb
+E:\3 курс\РПМ\лр4\лр4\obj\Debug\лр4.csprojAssemblyReference.cache
+E:\3 курс\РПМ\лр4\лр4\obj\Debug\лр4.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\лр4\лр4\obj\Debug\лр4.exe
+E:\3 курс\РПМ\лр4\лр4\obj\Debug\лр4.pdb
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\bin\Debug\лр4.exe.config
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\bin\Debug\лр4.exe
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\bin\Debug\лр4.pdb
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\obj\Debug\лр4.csproj.CoreCompileInputs.cache
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\obj\Debug\лр4.exe
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\obj\Debug\лр4.pdb
+E:\3 курс\РПМ\ЛР №4-5\лр4\лр4\obj\Debug\лр4.csproj.AssemblyReference.cache
